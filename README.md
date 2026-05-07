@@ -11,7 +11,6 @@ class AIArchitect:
     def current_stack(self):
         return {
             "research": ["Membrane", "AdsAI", "LAKER", "ANBR"],
-            "systems": ["effectively.ai", "claude-code", "prompts"],
             "philosophy": "change is constant, embrace it"
         }
 
