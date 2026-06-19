@@ -14,6 +14,15 @@ I transform research concepts into production systems — prioritizing scalabili
 | **Optimization Engines** | Parallel metaheuristics and distributed computation for complex planning and logistics |
 | **Distributed Architecture** | Event-driven microservices and resilient cloud platforms for regulated domains |
 
+### 🔧 Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, Golang, SQL, Rust, LaTeX |
+| **AI / LLM** | PyTorch, TensorFlow, vLLM, Hugging Face, LangChain |
+| **Cloud & MLOps** | AWS, GCP, Kubernetes, Docker, Modal, FastAPI |
+| **Databases & Observability** | Postgres, Mongo, Redis, Weaviate, Elasticsearch, OpenTelemetry |
+
 ### 🧭 Interests
 
 Machine Learning Systems • Distributed Computing • Generative AI Infrastructure • High-Performance Computing • Cloud Architecture • Open Source
